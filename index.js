@@ -1,4 +1,4 @@
 //Define function
 getFirstSelector(selector) {
-  return document.querySelector('ul');
+  return document.querySelector('div')[0];
 }
